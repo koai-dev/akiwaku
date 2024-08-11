@@ -2,7 +2,7 @@ class Config {
   //set your api server url here
   static String apiServerUrl = "https://afrihosta.com/rest-api/";
   //set your api key here
-  static String apiKey = "e9a7308718c04e7";
+  static String apiKey = "8yyy4tybaxzw122cobiylhwf";
   //set your onesignalID here
   static String oneSignalID = "2d48cea4-09c0-4c76-bcd9-23146a882853";
   //set stripe secret key
