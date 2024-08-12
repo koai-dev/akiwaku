@@ -100,7 +100,7 @@ class _MoviesScreenByGenereIDState extends State<MoviesScreenByGenereID> {
                     child: Image.network(
                       model.thumbnailUrl!,
                       fit: BoxFit.fill,
-                      height: 160,
+                      height: 150,
                     ),
                   ),
                   Container(
