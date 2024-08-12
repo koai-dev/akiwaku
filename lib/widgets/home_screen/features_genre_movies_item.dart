@@ -29,7 +29,7 @@ class HomeScreenGenreMoviesList extends StatelessWidget {
       padding: const EdgeInsets.only(bottom: 20.0),
       child: Container(
           padding: EdgeInsets.only(left: 2),
-          height: 232,
+          height: 250,
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             mainAxisAlignment: MainAxisAlignment.start,

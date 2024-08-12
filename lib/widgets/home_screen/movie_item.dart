@@ -24,7 +24,7 @@ class HomeScreenMovieList extends StatelessWidget {
     return Container(
         color: isDark! ? CustomTheme.primaryColorDark : null,
         padding: EdgeInsets.only(left: 2),
-        height: 235,
+        height: 250,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisAlignment: MainAxisAlignment.start,

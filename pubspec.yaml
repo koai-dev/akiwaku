@@ -91,6 +91,7 @@ flutter_icons:
 
 dependency_overrides:
   package_info_plus: any
+  win32: ^5.5.3
   # flutter_stripe: any
   # stripe_checkout: ^1.0.2
 

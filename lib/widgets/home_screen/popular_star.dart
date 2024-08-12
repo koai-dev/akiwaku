@@ -15,7 +15,7 @@ class PopularStarWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 120,
+      height: 130,
       color: isDark ? CustomTheme.primaryColorDark : Colors.white,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
